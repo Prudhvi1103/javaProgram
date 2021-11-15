@@ -1,0 +1,7 @@
+class B extends A
+{
+	public static void walk()
+	{
+		System.out.println("Hello World!....");
+	}
+}
